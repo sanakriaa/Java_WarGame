@@ -1,7 +1,7 @@
 
 import java.util.ArrayList;
 
-public class Main_Jeu
+public class Plateau
 {
 	public static void main(String[] args)
 	{
